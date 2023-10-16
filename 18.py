@@ -1,0 +1,4 @@
+def loop():
+    for x in range(1,10):
+        print(x)
+loop()
